@@ -1,6 +1,6 @@
 # visage-verifie
 Facial recognition software to detect if an ID matches a live video of a user
-using [face-api.js](https://github.com/justadudewhohacks/face-api.js) 
+using [face-api.js](https://github.com/justadudewhohacks/face-api.js)
 
 To use locally:
 1. Clone the repository
@@ -9,4 +9,4 @@ To use locally:
 4. `$ npm start`
 5. Go to localhost:3000 in the browser and have fun!
 
-Note: on Macs, if having issues with webcam permissions open localhost:3000 in safari instead
+Note: on Macs, if having issues with webcam permissions in Chrome open localhost:3000 in Safari instead
